@@ -1,4 +1,4 @@
-# Atividade Avaliativa da Semana 6 de Algoritmos e Programação de Computadores I
+# Primeira tentativa da Atividade Avaliativa da Semana 6 de Algoritmos e Programação de Computadores I
 
 # Questão 2
 for x in range(10):
