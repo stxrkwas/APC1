@@ -1,6 +1,6 @@
 # Atividade Avaliativa da Semana 6 de Algoritmos e Programação de Computadores I
 
-# %% Questão 2
+# Questão 2
 for x in range(10):
     print(x)
 
@@ -63,3 +63,27 @@ for operacao in range(5):
         print(operacao, ' Excluir produtos.', sep=".")
     if operacao == 5:
         print(operacao, ' Sair do programa.', sep=".")
+
+# %% Questão 6
+
+while True:
+    n1 = eval(input('Digite o primeiro número:'))
+    n2 = eval(input('Digite o segundo número:'))
+    operacao = eval(input('Opções: \n\n 1 - Soma \n 2 - Subtração \n 3 - Multiplicação \n 4 - Divisão \n 5 - Sair \n\n'))
+
+    if operacao == 1:
+        resultado = n1 + n2 # soma(n1,n2)
+        print('O resultado é', resultado)
+    if operacao == 2:
+        resultado = n1 - n2 # subtracao(n1,n2)
+        print('O resultado é', resultado)
+    if operacao == 3:
+        resultado = n1 * n2 #multiplicacao(n1,n2)
+        print('O resultado é', resultado)
+    if operacao == 4:
+        resultado = n1 / n2 #divisao(n1,n2)
+        print('O resultado é', resultado)
+    if operacao == 5:
+        print("Fim!") # Adição minha.
+        break
+
