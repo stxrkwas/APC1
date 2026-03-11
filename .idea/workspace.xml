@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d1c5351-9e93-486b-bd31-00e0a99a5364" name="Changes" comment="1ª tentativa da Atividade Avaliativa concluída, porém a nota não foi satisfatória. Nova tentativa iniciada.">
+      <change afterPath="$PROJECT_DIR$/aas7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/APCI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/APCI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aas6-tentativa2.py" beforeDir="false" afterPath="$PROJECT_DIR$/aas6-tentativa2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aas6-tentativa1.py" beforeDir="false" afterPath="$PROJECT_DIR$/aas6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aas6-tentativa2.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +33,12 @@
     &quot;assignee&quot;: &quot;stxrkwas&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/stxrkwas/APC1.git&quot;,
-    &quot;accountId&quot;: &quot;c0e03cd5-d549-4fa8-82a6-8a478da5bd6c&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/stxrkwas/APC1.git",
+    "accountId": "1c096714-a7bf-4835-bf13-26ffecd3550f"
   }
-}</component>
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -46,6 +50,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="3ABZ9JNDwreiuoIcrX3FxjUhSSf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,6 +63,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.aas4.executor": "Run",
     "Python.aas6.executor": "Run",
+    "Python.aas7.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -71,13 +79,13 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "advanced.settings",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="aas6-tentativa1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="aas6" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="APCI" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,7 +100,31 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\maria.luiza\PycharmProjects\APC1\aas6-tentativa1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\maria.luiza\PycharmProjects\APC1\aas6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aas7" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="APCI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aas7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,8 +137,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.31033.139" />
-        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.308" />
+        <option value="bundled-python-sdk-ca5e2b39c7df-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.308" />
       </set>
     </attachedChunks>
   </component>
@@ -123,6 +155,7 @@
       <workItem from="1772376315879" duration="1114000" />
       <workItem from="1772558465356" duration="2519000" />
       <workItem from="1772561046495" duration="4326000" />
+      <workItem from="1773255986534" duration="2987000" />
     </task>
     <task id="LOCAL-00001" summary="Exercícios da atividade avaliativa da Semana 4 de APCI.">
       <option name="closed" value="true" />
@@ -186,6 +219,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/APC1$aas7.coverage" NAME="aas7 Coverage Results" MODIFIED="1773258411362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/APC1$aas6.coverage" NAME="aas6 Coverage Results" MODIFIED="1772562967848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/APCI$aas4.coverage" NAME="aas4 Coverage Results" MODIFIED="1772068790796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
